@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="45" viewBox="0 0 94 45">
+    <defs>
+        <linearGradient id="a" x1="0%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#32C5FF"/>
+            <stop offset="31.037%" stop-color="#00CDF1"/>
+            <stop offset="67.63%" stop-color="#00D4D5"/>
+            <stop offset="100%" stop-color="#44D7B6"/>
+        </linearGradient>
+        <linearGradient id="b" x1="0%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#32C5FF"/>
+            <stop offset="31.037%" stop-color="#00CDF1"/>
+            <stop offset="67.63%" stop-color="#00D4D5"/>
+            <stop offset="100%" stop-color="#44D7B6"/>
+        </linearGradient>
+        <linearGradient id="c" x1="0%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#32C5FF"/>
+            <stop offset="31.037%" stop-color="#00CDF1"/>
+            <stop offset="67.63%" stop-color="#00D4D5"/>
+            <stop offset="100%" stop-color="#44D7B6"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-opacity=".8" fill-rule="evenodd">
+        <path fill="url(#a)" d="M8.77 15.869l29.629-.074c5.626-.014 10.198 4.536 10.212 10.162v.133c-.014 5.616-4.564 10.166-10.181 10.18l-29.628.074c-5.626.014-10.198-4.536-10.212-10.162v-.132c.014-5.617 4.564-10.167 10.18-10.181z" transform="scale(-1 1) rotate(-52 -29.033 124.306)"/>
+        <path fill="url(#b)" d="M86.649 27.421h.116c5.617.014 10.168 4.564 10.182 10.182v.076c.013 5.626-4.536 10.197-10.162 10.21h-.164c-5.617-.013-10.168-4.564-10.181-10.182v-.076c-.014-5.626 4.535-10.197 10.16-10.21h.049z" transform="scale(-1 1) rotate(56 41.37 -56.023)"/>
+        <path fill="url(#c)" d="M27.14 15.795l29.628.074c5.617.014 10.167 4.564 10.18 10.18v.083c.015 5.626-4.535 10.198-10.16 10.212h-.051l-29.628-.074c-5.617-.014-10.167-4.564-10.181-10.18v-.082c-.014-5.626 4.535-10.199 10.161-10.213h.05z" transform="rotate(52 43.752 20.11)"/>
+        <path fill="url(#a)" d="M45.16 15.869l29.628-.074c5.626-.014 10.198 4.536 10.212 10.162v.133c-.014 5.616-4.564 10.166-10.181 10.18l-29.628.074c-5.626.014-10.198-4.536-10.212-10.162v-.132c.014-5.617 4.564-10.167 10.18-10.181z" transform="rotate(-52 54.176 28.31)"/>
+    </g>
+</svg>
